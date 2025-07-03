@@ -211,3 +211,23 @@ footer {
   color: #777;
   background: #111;
 }
+.fill.python {
+  width: 80%;
+  background-color: #00ffff;
+}
+.fill.react {
+  width: 75%;
+  background-color: #00ffff;
+}
+.fill.node {
+  width: 70%;
+  background-color: #00ffff;
+}
+.fill.numpy {
+  width: 65%;
+  background-color: #00ffff;
+}
+.fill.pandas {
+  width: 60%;
+  background-color: #00ffff;
+}
